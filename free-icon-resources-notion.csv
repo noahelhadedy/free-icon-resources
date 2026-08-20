@@ -94,65 +94,66 @@
 93,Free3Dicon,3D Icons,Specialized Icons,Free 3D icons in PNG & Blend,https://free3dicon.com
 94,Pixeltrue Icons,3D Icons,Specialized Icons,Free animated & 3D-style icons,https://www.pixeltrue.com/free-icons
 95,Icons8 3D Icons,3D Icons,Specialized Icons,3D icon collections by Icons8,https://icons8.com/icons/3d
-96,OpenMoji,Emoji,Specialized Icons,Open-source emoji for designers & developers,https://openmoji.org
-97,Twemoji,Emoji,Specialized Icons,Twitter's open-source emoji set,https://github.com/twitter/twemoji
-98,Noto Emoji,Emoji,Specialized Icons,Google's open-source emoji,https://github.com/googlefonts/noto-emoji
-99,Fluent Emoji,Emoji,Specialized Icons,"Microsoft's expressive emoji in 3D, flat & color",https://github.com/microsoft/fluentui-emoji
-100,Animated Fluent Emoji,Emoji,Specialized Icons,Animated version of Microsoft's Fluent emoji,https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis
-101,Emojipedia,Emoji,Specialized Icons,Reference for every emoji across platforms,https://emojipedia.org
-102,Get Emoji,Emoji,Specialized Icons,Copy-paste every emoji on one page,https://getemoji.com
-103,JoyPixels,Emoji,Specialized Icons,Cross-platform emoji icon set,https://www.joypixels.com
-104,Emoji Kitchen,Emoji,Specialized Icons,Mix two emoji into new combos,https://emojikitchen.dev
-105,Flagpack,Flags & Country Icons,Specialized Icons,Free flag icon set for design & dev,https://flagpack.xyz
-106,Flag Icons,Flags & Country Icons,Specialized Icons,SVG country flags in 1×1 & 4×3,https://flagicons.lipis.dev
-107,Flagpedia,Flags & Country Icons,Specialized Icons,Download flags of all countries in many formats,https://flagpedia.net
-108,Circle Flags,Flags & Country Icons,Specialized Icons,Circular SVG country flags,https://hatscripts.github.io/circle-flags
-109,FlagCDN,Flags & Country Icons,Specialized Icons,Country flags via simple CDN URLs,https://flagcdn.com
-110,FlagKit,Flags & Country Icons,Specialized Icons,Beautiful flag icons for iOS & design,https://github.com/madebybowtie/FlagKit
-111,Game-icons.net,Specialty & Themed Icons,Specialized Icons,"4,000+ free icons for games & apps",https://game-icons.net
-112,Kenney Game Icons,Specialty & Themed Icons,Specialized Icons,Free CC0 game icon packs,https://kenney.nl/assets?q=icons
-113,Weather Icons,Specialty & Themed Icons,Specialized Icons,200+ weather-themed icons as a font,https://erikflowers.github.io/weather-icons
-114,Cryptocurrency Icons,Specialty & Themed Icons,Specialized Icons,400+ crypto & fiat currency icons,https://github.com/spothq/cryptocurrency-icons
-115,CryptoFonts,Specialty & Themed Icons,Specialized Icons,Crypto coin icons as a font & SVG,https://www.cryptofonts.com
-116,Payment Icons,Specialty & Themed Icons,Specialized Icons,Credit-card & payment SVG icons,https://github.com/aaronfagan/svg-credit-card-payment-icons
-117,Health Icons,Specialty & Themed Icons,Specialized Icons,Free open-source health & medical icons,https://healthicons.org
-118,Maki,Specialty & Themed Icons,Specialized Icons,Open-source icons for maps & points of interest,https://labs.mapbox.com/maki-icons
-119,SVGOMG,SVG & Icon Tools,Tools & Generators,Optimize & clean SVG icons in the browser,https://jakearchibald.github.io/svgomg
-120,SVG Viewer,SVG & Icon Tools,Tools & Generators,"View, edit, optimize & convert SVG online",https://www.svgviewer.dev
-121,SVGR Playground,SVG & Icon Tools,Tools & Generators,Convert SVG into React components,https://react-svgr.com/playground
-122,Boxy SVG,SVG & Icon Tools,Tools & Generators,Browser-based SVG editor,https://boxy-svg.com
-123,Method Draw,SVG & Icon Tools,Tools & Generators,Simple online SVG editor,https://editor.method.app
-124,Vectorizer.ai,SVG & Icon Tools,Tools & Generators,Convert PNG/JPG to clean SVG with AI,https://vectorizer.ai
-125,SVG Path Editor,SVG & Icon Tools,Tools & Generators,Edit raw SVG paths visually,https://yqnn.github.io/svg-path-editor
-126,SVG to JSX,SVG & Icon Tools,Tools & Generators,Convert SVG markup to JSX/React,https://transform.tools/svg-to-jsx
-127,SVG Gobbler,SVG & Icon Tools,Tools & Generators,Browser extension to grab SVGs from any page,https://www.svggobbler.com
-128,SVG to PNG,SVG & Icon Tools,Tools & Generators,Convert SVG icons to PNG online,https://svgtopng.com
-129,URL-encoder for SVG,SVG & Icon Tools,Tools & Generators,Encode SVG for use in CSS backgrounds,https://yoksel.github.io/url-encoder
-130,IconJar,SVG & Icon Tools,Tools & Generators,Organize & manage your icon library on Mac,https://geticonjar.com
-131,RealFaviconGenerator,Favicon & App Icon Generators,Tools & Generators,Generate favicons for every platform,https://realfavicongenerator.net
-132,Favicon.io,Favicon & App Icon Generators,Tools & Generators,"Make favicons from text, image or emoji",https://favicon.io
-133,Icon Kitchen,Favicon & App Icon Generators,Tools & Generators,"Generate Android, iOS & web app icons",https://icon.kitchen
-134,AppIcon.co,Favicon & App Icon Generators,Tools & Generators,Generate all iOS & Android app icon sizes,https://www.appicon.co
-135,MakeAppIcon,Favicon & App Icon Generators,Tools & Generators,Resize one image into every app-icon size,https://makeappicon.com
-136,Favicon Generator,Favicon & App Icon Generators,Tools & Generators,Classic all-size favicon maker,https://www.favicon-generator.org
-137,Maskable.app,Favicon & App Icon Generators,Tools & Generators,Preview & build maskable PWA icons,https://maskable.app
-138,Icon Horse,Favicon & App Icon Generators,Tools & Generators,Fetch any site's favicon via a simple API,https://icon.horse
-139,Recraft,AI Icon Generators,Tools & Generators,AI vector & icon generator with consistent style,https://www.recraft.ai
-140,SVG.io,AI Icon Generators,Tools & Generators,Generate SVG icons from text prompts,https://svg.io
-141,IconifyAI,AI Icon Generators,Tools & Generators,AI app-icon generator,https://www.iconifyai.com
-142,Ideogram,AI Icon Generators,Tools & Generators,AI image generator strong at icons & text,https://ideogram.ai
-143,Microsoft Designer,AI Icon Generators,Tools & Generators,AI graphics & icon generation,https://designer.microsoft.com
-144,Iconify for Figma,Figma Icon Plugins,Figma & Plugins,"Import 150,000+ icons from any open set into Figma",https://www.figma.com/community/plugin/735098390272716381/iconify
-145,Lucide Icons,Figma Icon Plugins,Figma & Plugins,Bring the Lucide set into Figma,https://www.figma.com/community/search?query=lucide%20icons
-146,Material Symbols,Figma Icon Plugins,Figma & Plugins,Google's Material Symbols for Figma,https://www.figma.com/community/search?query=material%20symbols
-147,Phosphor Icons,Figma Icon Plugins,Figma & Plugins,Phosphor's flexible icons for Figma,https://www.figma.com/community/search?query=phosphor%20icons
-148,Tabler Icons,Figma Icon Plugins,Figma & Plugins,"5,800+ Tabler icons for Figma",https://www.figma.com/community/search?query=tabler%20icons
-149,Hugeicons,Figma Icon Plugins,Figma & Plugins,Hugeicons multi-style set for Figma,https://www.figma.com/community/search?query=hugeicons
-150,Untitled UI Icons,Figma Icon Plugins,Figma & Plugins,Untitled UI's clean icon set for Figma,https://www.figma.com/community/search?query=untitled%20ui%20icons
-151,SF Symbols,Icon Design Inspiration & Learning,Inspiration & Learning,"Apple's 6,900+ system symbols, app & guidelines",https://developer.apple.com/sf-symbols
-152,Material Symbols Guidelines,Icon Design Inspiration & Learning,Inspiration & Learning,Google's official icon design guidelines,https://m3.material.io/styles/icons
-153,The Iconfactory,Icon Design Inspiration & Learning,Inspiration & Learning,Legendary icon design studio & resources,https://iconfactory.com
-154,IconUtopia,Icon Design Inspiration & Learning,Inspiration & Learning,Icon design tutorials & inspiration,https://iconutopia.com
-155,Icons8 Blog,Icon Design Inspiration & Learning,Inspiration & Learning,Articles on iconography & design,https://blog.icons8.com
-156,Smashing Magazine — Icons,Icon Design Inspiration & Learning,Inspiration & Learning,In-depth articles on icon design,https://www.smashingmagazine.com/category/icons
-157,Dribbble Icon Sets,Icon Design Inspiration & Learning,Inspiration & Learning,Icon design inspiration shots,https://dribbble.com/tags/icon_set
+96,Thridy,3D Icons,Specialized Icons,"13,000+ free 3D icons in one consistent style, HD transparent PNG downloads",https://thridy.com
+97,OpenMoji,Emoji,Specialized Icons,Open-source emoji for designers & developers,https://openmoji.org
+98,Twemoji,Emoji,Specialized Icons,Twitter's open-source emoji set,https://github.com/twitter/twemoji
+99,Noto Emoji,Emoji,Specialized Icons,Google's open-source emoji,https://github.com/googlefonts/noto-emoji
+100,Fluent Emoji,Emoji,Specialized Icons,"Microsoft's expressive emoji in 3D, flat & color",https://github.com/microsoft/fluentui-emoji
+101,Animated Fluent Emoji,Emoji,Specialized Icons,Animated version of Microsoft's Fluent emoji,https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis
+102,Emojipedia,Emoji,Specialized Icons,Reference for every emoji across platforms,https://emojipedia.org
+103,Get Emoji,Emoji,Specialized Icons,Copy-paste every emoji on one page,https://getemoji.com
+104,JoyPixels,Emoji,Specialized Icons,Cross-platform emoji icon set,https://www.joypixels.com
+105,Emoji Kitchen,Emoji,Specialized Icons,Mix two emoji into new combos,https://emojikitchen.dev
+106,Flagpack,Flags & Country Icons,Specialized Icons,Free flag icon set for design & dev,https://flagpack.xyz
+107,Flag Icons,Flags & Country Icons,Specialized Icons,SVG country flags in 1×1 & 4×3,https://flagicons.lipis.dev
+108,Flagpedia,Flags & Country Icons,Specialized Icons,Download flags of all countries in many formats,https://flagpedia.net
+109,Circle Flags,Flags & Country Icons,Specialized Icons,Circular SVG country flags,https://hatscripts.github.io/circle-flags
+110,FlagCDN,Flags & Country Icons,Specialized Icons,Country flags via simple CDN URLs,https://flagcdn.com
+111,FlagKit,Flags & Country Icons,Specialized Icons,Beautiful flag icons for iOS & design,https://github.com/madebybowtie/FlagKit
+112,Game-icons.net,Specialty & Themed Icons,Specialized Icons,"4,000+ free icons for games & apps",https://game-icons.net
+113,Kenney Game Icons,Specialty & Themed Icons,Specialized Icons,Free CC0 game icon packs,https://kenney.nl/assets?q=icons
+114,Weather Icons,Specialty & Themed Icons,Specialized Icons,200+ weather-themed icons as a font,https://erikflowers.github.io/weather-icons
+115,Cryptocurrency Icons,Specialty & Themed Icons,Specialized Icons,400+ crypto & fiat currency icons,https://github.com/spothq/cryptocurrency-icons
+116,CryptoFonts,Specialty & Themed Icons,Specialized Icons,Crypto coin icons as a font & SVG,https://www.cryptofonts.com
+117,Payment Icons,Specialty & Themed Icons,Specialized Icons,Credit-card & payment SVG icons,https://github.com/aaronfagan/svg-credit-card-payment-icons
+118,Health Icons,Specialty & Themed Icons,Specialized Icons,Free open-source health & medical icons,https://healthicons.org
+119,Maki,Specialty & Themed Icons,Specialized Icons,Open-source icons for maps & points of interest,https://labs.mapbox.com/maki-icons
+120,SVGOMG,SVG & Icon Tools,Tools & Generators,Optimize & clean SVG icons in the browser,https://jakearchibald.github.io/svgomg
+121,SVG Viewer,SVG & Icon Tools,Tools & Generators,"View, edit, optimize & convert SVG online",https://www.svgviewer.dev
+122,SVGR Playground,SVG & Icon Tools,Tools & Generators,Convert SVG into React components,https://react-svgr.com/playground
+123,Boxy SVG,SVG & Icon Tools,Tools & Generators,Browser-based SVG editor,https://boxy-svg.com
+124,Method Draw,SVG & Icon Tools,Tools & Generators,Simple online SVG editor,https://editor.method.app
+125,Vectorizer.ai,SVG & Icon Tools,Tools & Generators,Convert PNG/JPG to clean SVG with AI,https://vectorizer.ai
+126,SVG Path Editor,SVG & Icon Tools,Tools & Generators,Edit raw SVG paths visually,https://yqnn.github.io/svg-path-editor
+127,SVG to JSX,SVG & Icon Tools,Tools & Generators,Convert SVG markup to JSX/React,https://transform.tools/svg-to-jsx
+128,SVG Gobbler,SVG & Icon Tools,Tools & Generators,Browser extension to grab SVGs from any page,https://www.svggobbler.com
+129,SVG to PNG,SVG & Icon Tools,Tools & Generators,Convert SVG icons to PNG online,https://svgtopng.com
+130,URL-encoder for SVG,SVG & Icon Tools,Tools & Generators,Encode SVG for use in CSS backgrounds,https://yoksel.github.io/url-encoder
+131,IconJar,SVG & Icon Tools,Tools & Generators,Organize & manage your icon library on Mac,https://geticonjar.com
+132,RealFaviconGenerator,Favicon & App Icon Generators,Tools & Generators,Generate favicons for every platform,https://realfavicongenerator.net
+133,Favicon.io,Favicon & App Icon Generators,Tools & Generators,"Make favicons from text, image or emoji",https://favicon.io
+134,Icon Kitchen,Favicon & App Icon Generators,Tools & Generators,"Generate Android, iOS & web app icons",https://icon.kitchen
+135,AppIcon.co,Favicon & App Icon Generators,Tools & Generators,Generate all iOS & Android app icon sizes,https://www.appicon.co
+136,MakeAppIcon,Favicon & App Icon Generators,Tools & Generators,Resize one image into every app-icon size,https://makeappicon.com
+137,Favicon Generator,Favicon & App Icon Generators,Tools & Generators,Classic all-size favicon maker,https://www.favicon-generator.org
+138,Maskable.app,Favicon & App Icon Generators,Tools & Generators,Preview & build maskable PWA icons,https://maskable.app
+139,Icon Horse,Favicon & App Icon Generators,Tools & Generators,Fetch any site's favicon via a simple API,https://icon.horse
+140,Recraft,AI Icon Generators,Tools & Generators,AI vector & icon generator with consistent style,https://www.recraft.ai
+141,SVG.io,AI Icon Generators,Tools & Generators,Generate SVG icons from text prompts,https://svg.io
+142,IconifyAI,AI Icon Generators,Tools & Generators,AI app-icon generator,https://www.iconifyai.com
+143,Ideogram,AI Icon Generators,Tools & Generators,AI image generator strong at icons & text,https://ideogram.ai
+144,Microsoft Designer,AI Icon Generators,Tools & Generators,AI graphics & icon generation,https://designer.microsoft.com
+145,Iconify for Figma,Figma Icon Plugins,Figma & Plugins,"Import 150,000+ icons from any open set into Figma",https://www.figma.com/community/plugin/735098390272716381/iconify
+146,Lucide Icons,Figma Icon Plugins,Figma & Plugins,Bring the Lucide set into Figma,https://www.figma.com/community/search?query=lucide%20icons
+147,Material Symbols,Figma Icon Plugins,Figma & Plugins,Google's Material Symbols for Figma,https://www.figma.com/community/search?query=material%20symbols
+148,Phosphor Icons,Figma Icon Plugins,Figma & Plugins,Phosphor's flexible icons for Figma,https://www.figma.com/community/search?query=phosphor%20icons
+149,Tabler Icons,Figma Icon Plugins,Figma & Plugins,"5,800+ Tabler icons for Figma",https://www.figma.com/community/search?query=tabler%20icons
+150,Hugeicons,Figma Icon Plugins,Figma & Plugins,Hugeicons multi-style set for Figma,https://www.figma.com/community/search?query=hugeicons
+151,Untitled UI Icons,Figma Icon Plugins,Figma & Plugins,Untitled UI's clean icon set for Figma,https://www.figma.com/community/search?query=untitled%20ui%20icons
+152,SF Symbols,Icon Design Inspiration & Learning,Inspiration & Learning,"Apple's 6,900+ system symbols, app & guidelines",https://developer.apple.com/sf-symbols
+153,Material Symbols Guidelines,Icon Design Inspiration & Learning,Inspiration & Learning,Google's official icon design guidelines,https://m3.material.io/styles/icons
+154,The Iconfactory,Icon Design Inspiration & Learning,Inspiration & Learning,Legendary icon design studio & resources,https://iconfactory.com
+155,IconUtopia,Icon Design Inspiration & Learning,Inspiration & Learning,Icon design tutorials & inspiration,https://iconutopia.com
+156,Icons8 Blog,Icon Design Inspiration & Learning,Inspiration & Learning,Articles on iconography & design,https://blog.icons8.com
+157,Smashing Magazine — Icons,Icon Design Inspiration & Learning,Inspiration & Learning,In-depth articles on icon design,https://www.smashingmagazine.com/category/icons
+158,Dribbble Icon Sets,Icon Design Inspiration & Learning,Inspiration & Learning,Icon design inspiration shots,https://dribbble.com/tags/icon_set

@@ -7,7 +7,7 @@
 
 A curated list of free icon resources for designers & developers — open-source icon sets, brand logos, animated & 3D icons, emoji, flags, icon search engines, and the tools to generate, optimize and ship them. Grouped so you can find what you need fast.
 
-**Total:** 157 resources across 14 categories in 6 groups.
+**Total:** 158 resources across 14 categories in 6 groups.
 
 The full list is also available as [`free-icon-resources-notion.csv`](free-icon-resources-notion.csv) for importing into Notion or any spreadsheet tool.
 
@@ -28,7 +28,7 @@ The full list is also available as [`free-icon-resources-notion.csv`](free-icon-
 
 - [Brand & Logo Icons](#brand--logo-icons) — 12
 - [Animated Icons](#animated-icons) — 7
-- [3D Icons](#3d-icons) — 5
+- [3D Icons](#3d-icons) — 6
 - [Emoji](#emoji) — 9
 - [Flags & Country Icons](#flags--country-icons) — 6
 - [Specialty & Themed Icons](#specialty--themed-icons) — 8
@@ -177,6 +177,7 @@ The full list is also available as [`free-icon-resources-notion.csv`](free-icon-
 | 3 | [Free3Dicon](https://free3dicon.com) | Free 3D icons in PNG & Blend |
 | 4 | [Pixeltrue Icons](https://www.pixeltrue.com/free-icons) | Free animated & 3D-style icons |
 | 5 | [Icons8 3D Icons](https://icons8.com/icons/3d) | 3D icon collections by Icons8 |
+| 6 | [Thridy](https://thridy.com) | 13,000+ free 3D icons in one consistent style, HD transparent PNG downloads |
 
 ### Emoji
 

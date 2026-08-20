@@ -120,6 +120,7 @@ GROUPS = {
             ("Free3Dicon", "https://free3dicon.com", "Free 3D icons in PNG & Blend"),
             ("Pixeltrue Icons", "https://www.pixeltrue.com/free-icons", "Free animated & 3D-style icons"),
             ("Icons8 3D Icons", "https://icons8.com/icons/3d", "3D icon collections by Icons8"),
+            ("Thridy", "https://thridy.com", "13,000+ free 3D icons in one consistent style, HD transparent PNG downloads"),
         ],
         "Emoji": [
             ("OpenMoji", "https://openmoji.org", "Open-source emoji for designers & developers"),
